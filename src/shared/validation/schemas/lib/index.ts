@@ -1,0 +1,1 @@
+export { userBodyValidation } from './userBodyValidation';
